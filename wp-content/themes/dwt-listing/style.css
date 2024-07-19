@@ -1,0 +1,20 @@
+/*
+Theme Name: DWT Listing
+Description: DWT Listing a complete directory listing for any type of business listing
+Author: Scripts Bundle
+Theme URI: http://listing.dwt_listing_directory.com/
+Author URI: http://scriptsbundle.com/
+Version: 3.2.9
+License: Themeforest Split Licence
+License URI: https://themeforest.net/user/scriptsbundle/
+Text Domain: dwt-listing
+Tags: translation-ready,theme-options, left-sidebar, right-sidebar, grid-layout, custom-menu, custom-logo,featured-images,  sticky-post,  threaded-comments
+*/
+
+.typed-hero-section .typed-cursor, .typed-hero-section .typed-cursor--blink {
+    display: none;
+}
+
+input.form-control {
+    height: 30px;
+}

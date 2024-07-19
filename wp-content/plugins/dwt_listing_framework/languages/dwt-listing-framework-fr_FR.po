@@ -1,0 +1,1773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DWT Listing Framework\n"
+"POT-Creation-Date: 2024-02-29 15:49+0500\n"
+"PO-Revision-Date: 2024-02-29 15:50+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: cpt/event-speakers.php:9
+msgid "Event Speakers"
+msgstr "Images d’événements"
+
+#: cpt/event-speakers.php:10
+msgid "Event Speaker"
+msgstr "Filtres d’événements"
+
+#: cpt/event-speakers.php:63
+msgid "Speaker Name"
+msgstr "Nom / Nom d'entreprise"
+
+#: cpt/event-speakers.php:64 metaboxes/speakers.php:46
+#: metaboxes/speakers.php:48
+msgid "Profession"
+msgstr "En cours"
+
+#: cpt/event-speakers.php:65
+msgid "Whatsapp"
+msgstr "Numéro WhatsApp"
+
+#: cpt/event-speakers.php:66
+msgid "Web Url"
+msgstr "Champ de l'url web de l'annonce"
+
+#: cpt/event-speakers.php:67
+msgid "Email"
+msgstr "Email"
+
+#: cpt/event-speakers.php:68 metaboxes/events.php:203
+#: metaboxes/listings.php:533 metaboxes/speakers.php:71
+msgid "Facebook"
+msgstr "Facebook"
+
+#: cpt/event-speakers.php:69 metaboxes/events.php:210
+#: metaboxes/listings.php:540 metaboxes/speakers.php:78
+msgid "Twitter"
+msgstr "Twitter"
+
+#: cpt/event-speakers.php:70
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: cpt/event-speakers.php:71
+msgid "Youtube"
+msgstr "Youtube"
+
+#: cpt/events-tickets.php:6
+msgid "Event Tickets"
+msgstr "Champs événement"
+
+#: cpt/events-tickets.php:7
+msgid "Event Ticket"
+msgstr "Expiration de l'événement"
+
+#: cpt/events-tickets.php:73 cpt/listing.php:178
+msgid "Name"
+msgstr "Nom / Nom d'entreprise"
+
+#: cpt/events-tickets.php:74
+msgid "Total Tickets"
+msgstr "Total des billets"
+
+#: cpt/events-tickets.php:75
+msgid "Ticket Price"
+msgstr "Prix du Billet"
+
+#: cpt/events-tickets.php:76
+msgid "Extra Service Price"
+msgstr "Tarif service supplémentaire"
+
+#: cpt/events-tickets.php:77
+msgid "Grand Total"
+msgstr "Total"
+
+#: cpt/events-tickets.php:78
+msgid "Admin Commisson"
+msgstr "Commission d’administration"
+
+#: cpt/events-tickets.php:79
+msgid "Event Name"
+msgstr "Nom de l’évènement"
+
+#: cpt/events-tickets.php:80 cpt/listing.php:181 cpt/payouts.php:53
+msgid "Date"
+msgstr "Date"
+
+#: cpt/events-tickets.php:81
+msgid "Event ID"
+msgstr "Événements"
+
+#: cpt/events-tickets.php:82
+msgid "Status"
+msgstr "Statut de réclamation"
+
+#: cpt/events.php:23
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:376
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:544
+msgid "Events"
+msgstr "Événements"
+
+#: cpt/events.php:49
+msgid "Event Categories"
+msgstr "Catégories d'événements"
+
+#: cpt/events.php:57 cpt/listing.php:69
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: cpt/listing.php:22
+msgid "Listings"
+msgstr "Annonces"
+
+#: cpt/listing.php:48
+msgid "Categories / Features"
+msgstr "Catégories/caractéristiques"
+
+#: cpt/listing.php:78
+msgid "Price Type"
+msgstr "Type de prix"
+
+#: cpt/listing.php:87
+msgid "Currency"
+msgstr "Devise"
+
+#: cpt/listing.php:110 index.php:396
+msgid "Location"
+msgstr "Emplacement"
+
+#: cpt/listing.php:137
+msgid "Reservations"
+msgstr "Réservations"
+
+#: cpt/listing.php:138
+msgid "Reservation"
+msgstr "Réservation"
+
+#: cpt/listing.php:179
+msgid "Mobile Number"
+msgstr "Numéro de portable"
+
+#: cpt/listing.php:180
+msgid "Email Address"
+msgstr "Adresse Email"
+
+#: cpt/listing.php:182
+msgid "Time"
+msgstr "Heure"
+
+#: cpt/listing.php:183
+msgid "Listing"
+msgstr "Annonces"
+
+#: cpt/listing.php:184
+msgid "ID"
+msgstr "ID"
+
+#: cpt/listing.php:185
+msgid "Booking Status"
+msgstr "Statut de réclamation"
+
+#: cpt/payouts.php:9
+msgid "payouts"
+msgstr "paiements"
+
+#: cpt/payouts.php:10
+msgid "payout"
+msgstr "paiement"
+
+#: cpt/payouts.php:49
+msgid "Message"
+msgstr "Nouveau message"
+
+#: cpt/payouts.php:50
+msgid "Amount"
+msgstr "Pays"
+
+#: cpt/payouts.php:51
+msgid "Author"
+msgstr "Affecter des auteurs"
+
+#: cpt/payouts.php:52
+msgid "Payout Status"
+msgstr "Statut de réclamation"
+
+#: cpt/payouts.php:78
+msgid "processd"
+msgstr "Traitée"
+
+#: cpt/payouts.php:81 metaboxes/claim.php:68
+msgid "Pending"
+msgstr "En attente"
+
+#: cpt/post_types.php:10
+msgid "Map Countries"
+msgstr "Carte des Pays"
+
+#: cpt/post_types.php:25
+msgid "Claims"
+msgstr "Revendications"
+
+#: cpt/post_types.php:38
+msgid "Form Fields"
+msgstr "Champs du formulaire"
+
+#: cpt/post_types.php:61 metaboxes/claim.php:65
+msgid "Claim Status"
+msgstr "Statut de réclamation"
+
+#: cpt/post_types.php:62
+msgid "Claimer"
+msgstr "Réclamant"
+
+#: cpt/post_types.php:63
+msgid "Contact No"
+msgstr "Num de contact"
+
+#: cpt/users.php:9
+msgid "Package Information"
+msgstr "Information sur le forfait"
+
+#: cpt/users.php:12
+msgid "Package Name"
+msgstr "Nom du Pack"
+
+#: cpt/users.php:44 metaboxes/events.php:142 metaboxes/listings.php:411
+#: metaboxes/listings.php:502 metaboxes/listings.php:512
+#: metaboxes/listings.php:672 metaboxes/listings.php:683
+#: metaboxes/listings.php:694 metaboxes/listings.php:705
+#: metaboxes/packages.php:136 metaboxes/packages.php:146
+#: metaboxes/packages.php:164 metaboxes/packages.php:174
+#: metaboxes/packages.php:184 metaboxes/packages.php:202
+#: metaboxes/packages.php:212 metaboxes/packages.php:222
+msgid "Select an option"
+msgstr "Sélectionnez une option"
+
+#: cpt/users.php:63
+msgid "User selected package"
+msgstr "Forfait  sélectionné par l’utilisateur"
+
+#: functions.php:158
+msgid "Email is not resgistered with us."
+msgstr "L'email n'est pas enregistré avec nous."
+
+#: functions.php:174
+msgid "Event Expire"
+msgstr "Expiration de l'événement"
+
+#: functions.php:175
+msgid "Event has been expired"
+msgstr "L'événement a expiré"
+
+#: functions.php:211
+msgid "Listing Expire"
+msgstr "Expiration de l’événement"
+
+#: functions.php:212
+msgid "Listing has been expired"
+msgstr "L'inscription a été expirée"
+
+#: functions.php:243
+msgid "New Ad"
+msgstr "Nouvelle annonce"
+
+#: functions.php:244
+msgid "Got new ad"
+msgstr "Vous avez une nouvelle annonce"
+
+#: functions.php:300
+msgid "Please Login to Report this Listing."
+msgstr "S’il vous plaît vous connecter pour signaler cette liste."
+
+#: functions.php:302
+msgid "You have reported this listing already."
+msgstr "Vous avez déjà signalé cette annonce."
+
+#: functions.php:323
+msgid "Ad Reported"
+msgstr "Annonce signalée"
+
+#: functions.php:324
+msgid "Users reported this listing, please check it. "
+msgstr "Les utilisateurs ont signalé cette annonce, s'il vous plaît vérifier."
+
+#: functions.php:343
+msgid "You have reported this listing successfully."
+msgstr "Vous avez signalé cette annonce avec succès."
+
+#: functions.php:345
+msgid "Your Reporting Limit is Completed."
+msgstr "Votre limite de déclaration est remplie."
+
+#: functions.php:372
+msgid "New Message"
+msgstr "Nouveau message"
+
+#: functions.php:373
+msgid "Got new message on listing"
+msgstr "Reçu un nouveau message sur la liste"
+
+#: functions.php:395 functions.php:454 functions.php:1297
+msgid "Message sent successfully."
+msgstr "Message envoyé avec succès."
+
+#: functions.php:398 functions.php:458 functions.php:760 functions.php:828
+#: functions.php:1300
+msgid "Message not sent, please try again later."
+msgstr "Message non envoyé, veuillez réessayer plus tard."
+
+#: functions.php:412 functions.php:547
+msgid "Please install Sb chat plugin to enable chat feature."
+msgstr ""
+"Veuillez installer le plugin de chat Sb pour activer la fonction de chat"
+
+#: functions.php:417
+msgid "Message not sent, please login first."
+msgstr "Merci de vous connecter"
+
+#: functions.php:580
+msgid "You claim has been declined."
+msgstr "Votre revendication a été refusée."
+
+#: functions.php:583
+msgid "You have claimed this listing already."
+msgstr "Vous avez déjà réclamé cette annonce."
+
+#: functions.php:619 functions.php:734 functions.php:802
+msgid "Claim Listing"
+msgstr "Revendiquer l'annonce"
+
+#: functions.php:620
+msgid "Users claim this listing, please check it. "
+msgstr "Les utilisateurs revendiquent cette annonce, s'il vous plaît vérifier."
+
+#: functions.php:638
+msgid "Your claim has been submited successfully & waiting for approval."
+msgstr "Votre demande a été soumis avec succès et en attente d’approbation."
+
+#: functions.php:665
+msgid "Listing author can't post review."
+msgstr "L’auteur de la liste ne peut pas publier la révision."
+
+#: functions.php:677 functions.php:693
+msgid "Review Updated Successfully."
+msgstr "Avis mis à jour avec succès."
+
+#: functions.php:735 functions.php:803
+msgid "You have a new review, please check it. "
+msgstr "Vous avez un nouvel avis, s'il vous plaît vérifier."
+
+#: functions.php:755 functions.php:823
+msgid "Review Posted Successfully."
+msgstr "Avis publié avec succès."
+
+#: functions.php:757 functions.php:825
+msgid "Review posted successfully & waiting for admin approval."
+msgstr ""
+"Avis Posté avec succès et en attente de l’approbation de l’administrateur."
+
+#: functions.php:874
+msgid "Listing Ownership Changed"
+msgstr "Propriété de l’inscription modifiée"
+
+#: functions.php:875 functions.php:908
+msgid "The ownership of your listing has been changed, please check it. "
+msgstr ""
+"La propriété de votre annonce a été modifiée, s'il vous plaît vérifier."
+
+#: functions.php:907
+msgid "Claim Listing Approval"
+msgstr "Approbation de l'inscription des revendications"
+
+#: functions.php:943
+msgid "Listing Claim Declined"
+msgstr "Revendication refusée"
+
+#: functions.php:944
+msgid "Unfortunately! your claim has been declined, please check it. "
+msgstr "Malheureusement! votre demande a été refusée, veuillez la vérifier."
+
+#: functions.php:1008
+msgid "Reply Updated Successfully."
+msgstr "Réponse mise à jour avec succès."
+
+#: functions.php:1031
+msgid "Listing Review Reply"
+msgstr "Réponse de l'examen de la liste"
+
+#: functions.php:1032
+msgid "You received a new reply, please check it. "
+msgstr "Vous avez reçu une nouvelle réponse, s'il vous plaît vérifier"
+
+#: functions.php:1050
+msgid "Reply Posted Successfully."
+msgstr "Réponse postée avec succès."
+
+#: functions.php:1052
+msgid "Reply not sent, please try again later."
+msgstr "Répondre non envoyé, s'il vous plaît essayer à nouveau plus tard."
+
+#: functions.php:1126
+msgid "To : "
+msgstr "À :"
+
+#: functions.php:1127
+msgid "From : "
+msgstr "De : "
+
+#: functions.php:1132 functions.php:1153
+msgid "New Event"
+msgstr "Nouvel évènement"
+
+#: functions.php:1133
+msgid "Got new event"
+msgstr "Vous avez un nouvel événement"
+
+#: functions.php:1154
+msgid "You event created"
+msgstr "Événement créé"
+
+#: functions.php:1196
+msgid "Downtown Packages"
+msgstr "Forfaits centre-ville"
+
+#: functions.php:1278
+msgid "New Notification"
+msgstr "Nouvelle notification"
+
+#: functions.php:1279
+msgid "You have a new email from"
+msgstr "Vous avez un nouvel e-mail de"
+
+#: index.php:249
+msgid "Timepicker"
+msgstr "Timepicker"
+
+#: index.php:250
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: index.php:251
+msgid "Monday"
+msgstr "Lundi"
+
+#: index.php:252
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: index.php:253
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: index.php:254
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: index.php:255
+msgid "Friday"
+msgstr "Vendredi"
+
+#: index.php:256
+msgid "Saturday"
+msgstr "Samedi"
+
+#: index.php:257
+msgid "Sun"
+msgstr "Dim"
+
+#: index.php:258
+msgid "Mon"
+msgstr "Lun"
+
+#: index.php:259
+msgid "Tue"
+msgstr "Mar"
+
+#: index.php:260
+msgid "Wed"
+msgstr "Mer"
+
+#: index.php:261
+msgid "Thu"
+msgstr "Jeu"
+
+#: index.php:262
+msgid "Fri"
+msgstr "Ven"
+
+#: index.php:263
+msgid "Sat"
+msgstr "Sam"
+
+#: index.php:264
+msgid "Su"
+msgstr "Di"
+
+#: index.php:265
+msgid "Mo"
+msgstr "Lu"
+
+#: index.php:266
+msgid "Tu"
+msgstr "Ma"
+
+#: index.php:267
+msgid "We"
+msgstr "Me"
+
+#: index.php:268
+msgid "Th"
+msgstr "Je"
+
+#: index.php:269
+msgid "Fr"
+msgstr "Ve"
+
+#: index.php:270
+msgid "Sa"
+msgstr "Sa"
+
+#: index.php:271
+msgid "January"
+msgstr "Janvier"
+
+#: index.php:272
+msgid "February"
+msgstr "Février"
+
+#: index.php:273
+msgid "March"
+msgstr "Mars"
+
+#: index.php:274
+msgid "April"
+msgstr "Avril"
+
+#: index.php:275 index.php:287
+msgid "May"
+msgstr "Mai"
+
+#: index.php:276
+msgid "June"
+msgstr "Juin"
+
+#: index.php:277 index.php:289
+msgid "July"
+msgstr "Juillet"
+
+#: index.php:278
+msgid "August"
+msgstr "Août"
+
+#: index.php:279
+msgid "September"
+msgstr "Septembre"
+
+#: index.php:280
+msgid "October"
+msgstr "Octobre"
+
+#: index.php:281
+msgid "November"
+msgstr "Novembre"
+
+#: index.php:282
+msgid "December"
+msgstr "Décembre"
+
+#: index.php:283
+msgid "Jan"
+msgstr "Jan"
+
+#: index.php:284
+msgid "Feb"
+msgstr "Fév"
+
+#: index.php:285
+msgid "Mar"
+msgstr "Mar"
+
+#: index.php:286
+msgid "Apr"
+msgstr "Avr"
+
+#: index.php:288
+msgid "Jun"
+msgstr "Juin"
+
+#: index.php:290
+msgid "Aug"
+msgstr "Août"
+
+#: index.php:291
+msgid "Sep"
+msgstr "Sep"
+
+#: index.php:292
+msgid "Oct"
+msgstr "Oct"
+
+#: index.php:293
+msgid "Nov"
+msgstr "Nov"
+
+#: index.php:294
+msgid "Dec"
+msgstr "Déc"
+
+#: index.php:295
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: index.php:296
+msgid "Clear"
+msgstr "Claire"
+
+#: index.php:297
+msgid "dateFormat"
+msgstr "format de la date"
+
+#: index.php:298
+msgid "Are you sure you want to remove this image?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette image?"
+
+#: index.php:299
+msgid "Select Images"
+msgstr "Sélectionner des images"
+
+#: index.php:411 metaboxes/listings.php:588
+msgid "N/A"
+msgstr "N/A"
+
+#: metaboxes/categories.php:18
+msgid "Category Icon"
+msgstr "Icône de catégorie"
+
+#: metaboxes/categories.php:19 metaboxes/categories.php:35
+msgid "icon-soccer"
+msgstr "icône-soccer"
+
+#: metaboxes/categories.php:20 metaboxes/categories.php:36
+msgid "Check Theme Icons List."
+msgstr "Cochez la liste des icônes de thème."
+
+#: metaboxes/categories.php:32
+msgid "Category Icons"
+msgstr "Icônes de catégorie"
+
+#: metaboxes/claim.php:22
+msgid "Detial About Claim"
+msgstr "Detial à propos de la revendication"
+
+#: metaboxes/claim.php:50
+msgid "Claimed By"
+msgstr "Annonce revendiquée par"
+
+#: metaboxes/claim.php:55
+msgid "Claimed Author Name."
+msgstr "Nom de l’auteur revendiqué."
+
+#: metaboxes/claim.php:59
+msgid "Claim Detials"
+msgstr "Détails Réclamation"
+
+#: metaboxes/claim.php:61
+msgid "Additional proof to expedite your claim approval..."
+msgstr "Preuve supplémentaire pour accélérer l’approbation de votre demande …"
+
+#: metaboxes/claim.php:69
+msgid "Approved"
+msgstr "Approuvé"
+
+#: metaboxes/claim.php:70
+msgid "Decline"
+msgstr "Refuser"
+
+#: metaboxes/claim.php:72
+msgid "Status for current claim"
+msgstr "Statut de la revendication"
+
+#: metaboxes/claim.php:76
+msgid "Claimer Contact"
+msgstr "Contact du réclamant"
+
+#: metaboxes/claim.php:79
+msgid "Claimer contact number"
+msgstr "Numéro de contact du réclamant"
+
+#: metaboxes/events.php:21
+msgid "Events Fields"
+msgstr "Champs événement"
+
+#: metaboxes/events.php:123 metaboxes/listings.php:382
+#: metaboxes/listings.php:394
+msgid "image not found"
+msgstr "image non trouvée"
+
+#: metaboxes/events.php:131
+msgid "Event Gallery"
+msgstr "Galerie de l'événement"
+
+#: metaboxes/events.php:135
+msgid "Event Images"
+msgstr "Images d’événements"
+
+#: metaboxes/events.php:139
+msgid "Select Category"
+msgstr "Sélectionner une catégorie"
+
+#: metaboxes/events.php:141
+msgid "Select Event Category"
+msgstr "Sélectionnez la catégorie d’événements"
+
+#: metaboxes/events.php:145
+msgid "Select event category"
+msgstr "Sélectionnez la catégorie de l'événement"
+
+#: metaboxes/events.php:150
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: metaboxes/events.php:152 metaboxes/speakers.php:55
+msgid "+99 3331 234567"
+msgstr "+41 12 1232334"
+
+#: metaboxes/events.php:157
+msgid "Contact Email"
+msgstr "Email de contact"
+
+#: metaboxes/events.php:159
+msgid "abc@xyz.com"
+msgstr "abc@xyz.com"
+
+#: metaboxes/events.php:163
+msgid "Event Start Date"
+msgstr "Date de début de l'événement"
+
+#: metaboxes/events.php:166
+msgid "Select event start date."
+msgstr "Sélectionnez la date de début de l’événement."
+
+#: metaboxes/events.php:170
+msgid "Event End Date"
+msgstr "Date de fin de l’événement"
+
+#: metaboxes/events.php:173
+msgid "Select event end date."
+msgstr "Sélectionnez la date de fin de l’événement."
+
+#: metaboxes/events.php:177
+msgid "Event Location"
+msgstr "Lieu de l'événement"
+
+#: metaboxes/events.php:181
+msgid "Location of your event."
+msgstr "Emplacement de votre événement."
+
+#: metaboxes/events.php:185 metaboxes/listings.php:481
+msgid "Map"
+msgstr "Carte"
+
+#: metaboxes/events.php:191
+msgid "Latitude"
+msgstr "Latitude"
+
+#: metaboxes/events.php:197
+msgid "Longitude"
+msgstr "Longitude"
+
+#: metaboxes/events.php:206 metaboxes/listings.php:536
+msgid "Your facebook URL"
+msgstr "Votre URL Facebook"
+
+#: metaboxes/events.php:213 metaboxes/listings.php:543
+msgid "Your Twitter URL"
+msgstr "Votre URL Twitter"
+
+#: metaboxes/events.php:217
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: metaboxes/events.php:220
+msgid "Your Google Plus URL"
+msgstr "URL Google Plus"
+
+#: metaboxes/events.php:224 metaboxes/listings.php:554
+#: metaboxes/speakers.php:86
+msgid "Linked IN"
+msgstr "Linked IN"
+
+#: metaboxes/events.php:227 metaboxes/listings.php:557
+msgid "Your Linked IN URL"
+msgstr "Votre URL Linked IN"
+
+#: metaboxes/events.php:231 metaboxes/listings.php:561
+#: metaboxes/speakers.php:93 metaboxes/speakers.php:96
+msgid "Youtube URL"
+msgstr "URL Youtube"
+
+#: metaboxes/events.php:234 metaboxes/listings.php:564
+msgid "Your Youtube URL"
+msgstr "URL  Youtube"
+
+#: metaboxes/events.php:238 metaboxes/listings.php:568
+#: metaboxes/speakers.php:100 metaboxes/speakers.php:103
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: metaboxes/events.php:241 metaboxes/listings.php:571
+msgid "Your Instagram URL"
+msgstr "Votre URL Instagram"
+
+#: metaboxes/events.php:245 metaboxes/listings.php:575
+#: metaboxes/speakers.php:107 metaboxes/speakers.php:110
+msgid "WhatsApp Number"
+msgstr "Numéro WhatsApp"
+
+#: metaboxes/events.php:248 metaboxes/listings.php:578
+msgid "Your WhatsApp Number"
+msgstr "Votre numéro WhatsApp"
+
+#: metaboxes/events.php:336
+msgid "Assign Events to Authors"
+msgstr "Assigner des événements aux auteurs"
+
+#: metaboxes/events.php:347 metaboxes/listings.php:1091
+msgid "Select author"
+msgstr "Sélectionner l'auteur"
+
+#: metaboxes/events.php:360 metaboxes/listings.php:1104
+msgid "Assign listing to any other author"
+msgstr "Attribuer la  liste à un autre auteur"
+
+#: metaboxes/form_fields.php:22
+msgid "Listing Custom Fields"
+msgstr "Liste des champs personnalisés"
+
+#: metaboxes/form_fields.php:76
+msgid "Field Type"
+msgstr "Type de champ"
+
+#: metaboxes/form_fields.php:79
+msgid "Text Field"
+msgstr "Champ texte"
+
+#: metaboxes/form_fields.php:80
+msgid "Multi Checkboxes"
+msgstr "Cases à cocher multi"
+
+#: metaboxes/form_fields.php:81
+msgid "Radio Buttons"
+msgstr "Boutons radio"
+
+#: metaboxes/form_fields.php:82
+msgid "Dropdowns"
+msgstr "Menus déroulants"
+
+#: metaboxes/form_fields.php:84
+msgid "Select field type"
+msgstr "Sélectionner un type de champ"
+
+#: metaboxes/form_fields.php:89
+msgid "Add Checkbox Values"
+msgstr "Ajouter des valeurs de CheckBox"
+
+#: metaboxes/form_fields.php:91 metaboxes/form_fields.php:99
+#: metaboxes/form_fields.php:107
+msgid "Option 1|Option 2|Option 3|"
+msgstr "Option 1| Option 2| Option 3|"
+
+#: metaboxes/form_fields.php:92 metaboxes/form_fields.php:100
+#: metaboxes/form_fields.php:108
+msgid "eg Option 1|Option 2|Option 3"
+msgstr "ex Option 1| Option 2| Option 3|"
+
+#: metaboxes/form_fields.php:97
+msgid "Add Radio Values"
+msgstr "Ajouter des valeurs radio"
+
+#: metaboxes/form_fields.php:105
+msgid "Select Options"
+msgstr "Choisissez les options"
+
+#: metaboxes/form_fields.php:113
+msgid "Select Category For Field"
+msgstr "Sélectionner une catégorie pour le champ"
+
+#: metaboxes/form_fields.php:117
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: metaboxes/form_fields.php:118
+msgid "Un Select"
+msgstr "Un Select"
+
+#: metaboxes/google_map.php:14
+msgid "Country"
+msgstr "Pays"
+
+#: metaboxes/google_map.php:15
+msgid "This should be follow ISO2 like"
+msgstr "Cela devrait suivre ISO2 comme"
+
+#: metaboxes/google_map.php:15
+msgid "US"
+msgstr "US"
+
+#: metaboxes/google_map.php:15
+msgid "for USA and"
+msgstr "pour les USA et"
+
+#: metaboxes/google_map.php:15
+msgid "CA"
+msgstr "CA"
+
+#: metaboxes/google_map.php:15
+msgid "for Canada"
+msgstr "pour le Canada"
+
+#: metaboxes/google_map.php:15
+msgid "Read More."
+msgstr "Lire plus."
+
+#: metaboxes/listings.php:20
+msgid "Listing Fields"
+msgstr "Champs de l’annonce"
+
+#: metaboxes/listings.php:200 metaboxes/listings.php:671
+msgid "Select Your Country"
+msgstr "Sélectionnez votre pays"
+
+#: metaboxes/listings.php:201 metaboxes/listings.php:682
+msgid "Select Your State"
+msgstr "Sélectionnez votre région"
+
+#: metaboxes/listings.php:202 metaboxes/listings.php:693
+msgid "Select Your City"
+msgstr "Sélectionnez votre ville"
+
+#: metaboxes/listings.php:203 metaboxes/listings.php:704
+msgid "Select Your Town"
+msgstr "Sélectionnez votre ville"
+
+#: metaboxes/listings.php:303
+msgid "From"
+msgstr "De"
+
+#: metaboxes/listings.php:306 metaboxes/listings.php:315
+#: metaboxes/listings.php:334 metaboxes/listings.php:343
+msgid "Select your business hours"
+msgstr "Sélectionnez vos heures d’ouverture"
+
+#: metaboxes/listings.php:312
+msgid "To"
+msgstr "À"
+
+#: metaboxes/listings.php:322
+msgid "Closed"
+msgstr "Fermé"
+
+#: metaboxes/listings.php:331
+msgid "Break From"
+msgstr "Pause de"
+
+#: metaboxes/listings.php:340
+msgid "Break To"
+msgstr "Pause"
+
+#: metaboxes/listings.php:349
+msgid "Break"
+msgstr "Pause"
+
+#: metaboxes/listings.php:404
+msgid "Listing Gallery Images"
+msgstr "Lister les images de la Galerie"
+
+#: metaboxes/listings.php:410
+msgid "Select Business Category"
+msgstr "Sélectionner une catégorie"
+
+#: metaboxes/listings.php:417
+msgid "Amenties"
+msgstr "Commodités"
+
+#: metaboxes/listings.php:424 metaboxes/speakers.php:39
+msgid "Additional Fields"
+msgstr "Champs additionnels"
+
+#: metaboxes/listings.php:442
+msgid "Select Brand Logo"
+msgstr "Sélectionnez le logo de la marque"
+
+#: metaboxes/listings.php:501
+msgid "Select Price Type"
+msgstr "Sélectionnez le type de tarif"
+
+#: metaboxes/listings.php:505
+msgid "It will show your business price range"
+msgstr "Afficher vos prix"
+
+#: metaboxes/listings.php:511
+msgid "Select Currency Type"
+msgstr "Sélectionnez le type de devise"
+
+#: metaboxes/listings.php:515
+msgid "Select your business currency type"
+msgstr "Sélectionnez le type de devise de votre entreprise"
+
+#: metaboxes/listings.php:522 metaboxes/listings.php:529
+msgid "Ignore this if your buisness does not have any specific price to show"
+msgstr "Si vous n’avez pas de prix spécifique, vous pouvez ignorer cette étape"
+
+#: metaboxes/listings.php:547
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: metaboxes/listings.php:550
+msgid "Your Tiktok URL"
+msgstr "Votre URL Tiktok"
+
+#: metaboxes/listings.php:582 metaboxes/packages.php:171
+msgid "Business Hours"
+msgstr "Heures d’ouverture"
+
+#: metaboxes/listings.php:592
+msgid "Open 24/7"
+msgstr "Ouvert 24/7"
+
+#: metaboxes/listings.php:596
+msgid "Selective Hours"
+msgstr "Heures sélectives"
+
+#: metaboxes/listings.php:601
+msgid "Want to show business hours? ignore this if you dont want to show"
+msgstr ""
+"Vous souhaitez afficher les heures d’ouverture? ignorer cela si vous ne "
+"voulez pas montrer"
+
+#: metaboxes/listings.php:613
+msgid "Select your timezone"
+msgstr "Sélectionnez votre fuseau horaire"
+
+#: metaboxes/listings.php:636
+msgid "Save 20%"
+msgstr "Économisez 20%"
+
+#: metaboxes/listings.php:637 metaboxes/listings.php:644
+msgid "Ignore this if your buisness does have any coupon"
+msgstr "Ignorez ceci si votre buisness a n’importe quel coupon"
+
+#: metaboxes/listings.php:643
+msgid "#12356-12"
+msgstr "#12356-12"
+
+#: metaboxes/listings.php:651
+msgid "Website Referal link related to coupon"
+msgstr "Lien de référence du site Web lié au coupon"
+
+#: metaboxes/listings.php:675 metaboxes/listings.php:686
+#: metaboxes/listings.php:697 metaboxes/listings.php:708
+msgid "Ignore this if dont want to show."
+msgstr "Ignorez cela si vous ne voulez pas afficher."
+
+#: metaboxes/listings.php:712
+msgid "Booking With Timekit"
+msgstr "Réservation avec Timekit"
+
+#: metaboxes/listings.php:714
+msgid "Timekit Widget Goes Here only code with <script></script>"
+msgstr "Timekit Widget Goes Here seul code avec<script></script>"
+
+#: metaboxes/listings.php:715
+msgid "Booking widget will only shows when enable from admin panel."
+msgstr ""
+"Le widget de réservation ne s'affiche que lorsqu'il s'affiche à partir du "
+"panneau d'administration."
+
+#: metaboxes/listings.php:984
+msgid "Mark Listing As Featured"
+msgstr "Liste de marque comme indiqué en vedette"
+
+#: metaboxes/listings.php:1006
+msgid "Do you want to make this listing as featured!"
+msgstr "Voulez-vous faire cette liste comme indiqué en vedette!"
+
+#: metaboxes/listings.php:1010 metaboxes/packages.php:138
+#: metaboxes/packages.php:148 metaboxes/packages.php:166
+#: metaboxes/packages.php:176 metaboxes/packages.php:186
+#: metaboxes/packages.php:204 metaboxes/packages.php:214
+#: metaboxes/packages.php:224
+msgid "No"
+msgstr "Non"
+
+#: metaboxes/listings.php:1014 metaboxes/packages.php:137
+#: metaboxes/packages.php:147 metaboxes/packages.php:165
+#: metaboxes/packages.php:175 metaboxes/packages.php:185
+#: metaboxes/packages.php:203 metaboxes/packages.php:213
+#: metaboxes/packages.php:223
+msgid "Yes"
+msgstr "Oui"
+
+#: metaboxes/listings.php:1018 metaboxes/packages.php:125
+msgid "Featured For"
+msgstr "En vedette pour"
+
+#: metaboxes/listings.php:1020
+msgid "Expiry in days, -1 means never expired."
+msgstr "Expiration en jours,-1 signifie n'expier jamais."
+
+#: metaboxes/listings.php:1021
+msgid "Changes in days will impact on user package featured expiry days."
+msgstr ""
+"Les changements de jours auront un impact sur le paquet utilisateur présenté "
+"jours d'expiration."
+
+#: metaboxes/listings.php:1080
+msgid "Assign Listing to Authors"
+msgstr "Attribuer la liste aux auteurs"
+
+#: metaboxes/locations.php:22 metaboxes/locations.php:37
+msgid "Image"
+msgstr "Image"
+
+#: metaboxes/locations.php:26 metaboxes/locations.php:48
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: metaboxes/locations.php:27 metaboxes/locations.php:49
+msgid "Remove Image"
+msgstr "Supprimer l'image"
+
+#: metaboxes/packages.php:19
+msgid "For Packages"
+msgstr "Pour les forfaits"
+
+#: metaboxes/packages.php:81
+msgid "Package Type"
+msgstr "Type de forfait"
+
+#: metaboxes/packages.php:82
+msgid "Select package type whether it's a paid package or free"
+msgstr ""
+"Sélectionnez le type de paquet s'il s'agit d'un forfait payant ou gratuit"
+
+#: metaboxes/packages.php:84
+msgid "Free"
+msgstr "Gratuit"
+
+#: metaboxes/packages.php:85
+msgid "Paid"
+msgstr "Payé"
+
+#: metaboxes/packages.php:90
+msgid "Package Expiry"
+msgstr "Date d'Expiration de l'abonnement"
+
+#: metaboxes/packages.php:91 metaboxes/packages.php:101
+#: metaboxes/packages.php:126
+msgid "Expiry in days, -1 means never expired unless used it."
+msgstr "Expiration en jours, -1 signifie jamais expiré à moins de l'utiliser."
+
+#: metaboxes/packages.php:93
+msgid "Number of days eg 60."
+msgstr "Nombre de jours par exemple 60."
+
+#: metaboxes/packages.php:100
+msgid "Listing Expiry"
+msgstr "Expiration de l'annonce"
+
+#: metaboxes/packages.php:103
+msgid "Number of days eg 20."
+msgstr "Nombre de jours par exemple 20."
+
+#: metaboxes/packages.php:109
+msgid "Regular Listing"
+msgstr "Liste régulière"
+
+#: metaboxes/packages.php:110
+msgid "Total number of regular listings."
+msgstr "Nombre total d'inscriptions régulières."
+
+#: metaboxes/packages.php:112
+msgid "eg 10"
+msgstr "par exemple 10"
+
+#: metaboxes/packages.php:117
+msgid "Featured Listing"
+msgstr "Annonce en vedette"
+
+#: metaboxes/packages.php:118
+msgid "Total number of featured listings."
+msgstr "Nombre total d'annonces en vedette."
+
+#: metaboxes/packages.php:120
+msgid "eg 5"
+msgstr "par exemple 5"
+
+#: metaboxes/packages.php:128
+msgid "number of days eg 7"
+msgstr "nombre de jours par exemple 7"
+
+#: metaboxes/packages.php:133
+msgid "Video Listing"
+msgstr "Liste des vidéos"
+
+#: metaboxes/packages.php:134
+msgid "Want to give user an option to post video link during ad listing."
+msgstr ""
+"Vous voulez donner à l'utilisateur une option pour poster un lien vidéo "
+"pendant la liste des annonces."
+
+#: metaboxes/packages.php:143
+msgid "Website Link"
+msgstr "Lien du site web"
+
+#: metaboxes/packages.php:144
+msgid "Want to give user an option to post web link during ad listing."
+msgstr ""
+"Vous voulez donner à l'utilisateur une option pour poster un lien web "
+"pendant la liste des annonces."
+
+#: metaboxes/packages.php:153
+msgid "No of Images"
+msgstr "Non des images"
+
+#: metaboxes/packages.php:154
+msgid "No of image during post a listing."
+msgstr "Aucun image pendant le post d'une annonce."
+
+#: metaboxes/packages.php:156
+msgid "5"
+msgstr "5"
+
+#: metaboxes/packages.php:161
+msgid "Price Range"
+msgstr "Échelle des prix"
+
+#: metaboxes/packages.php:162
+msgid "Want to give user an option to select pricing range."
+msgstr ""
+"Vous voulez donner à l'utilisateur une option pour sélectionner la plage de "
+"prix."
+
+#: metaboxes/packages.php:172
+msgid "Want to give user an option to select business hours."
+msgstr ""
+"Vous voulez donner à l'utilisateur une option pour sélectionner les heures "
+"d'ouverture."
+
+#: metaboxes/packages.php:181
+msgid "Allow Tags"
+msgstr "Mots-clés autorisés"
+
+#: metaboxes/packages.php:182
+msgid "Want to give user an option to post tags during listing."
+msgstr ""
+"Vous voulez donner à l'utilisateur une option pour poster des balises lors "
+"de la cotation."
+
+#: metaboxes/packages.php:191
+msgid "Bump Up Listing"
+msgstr "Bump Up Liste"
+
+#: metaboxes/packages.php:192
+msgid "Total number of bump up listings."
+msgstr "Nombre total d'annonces de bosse vers le haut."
+
+#: metaboxes/packages.php:194
+msgid "eg 3"
+msgstr "par exemple 3"
+
+#: metaboxes/packages.php:199
+msgid "Make Package Featured"
+msgstr "Faire le paquet en vedette"
+
+#: metaboxes/packages.php:200
+msgid "Do you want to highlight this package."
+msgstr "Voulez-vous mettre en évidence ce paquet."
+
+#: metaboxes/packages.php:209
+msgid "Allow Coupon Code"
+msgstr "Autoriser le code de coupon"
+
+#: metaboxes/packages.php:210
+msgid "Allow coupon code option while listing."
+msgstr "Autoriser l'option code coupon lors de l'inscription."
+
+#: metaboxes/packages.php:219
+msgid "Create Event"
+msgstr "Créer un évènement"
+
+#: metaboxes/packages.php:220
+msgid "Allow events option while listing."
+msgstr "Autoriser l'option événements lors de l'inscription."
+
+#: metaboxes/packages.php:294
+msgid "In App Packages Keys"
+msgstr "Clés de paquets d'applications"
+
+#: metaboxes/packages.php:323
+msgid "Android Package ID"
+msgstr "ID de paquet Android"
+
+#: metaboxes/packages.php:326 metaboxes/packages.php:336
+msgid "#12345"
+msgstr "#12345"
+
+#: metaboxes/packages.php:333
+msgid "IOS Package ID"
+msgstr "ID de paquet IOS"
+
+#: metaboxes/speakers.php:53
+msgid "Contact Number"
+msgstr "Numéro de contact"
+
+#: metaboxes/speakers.php:59
+msgid "Website URL"
+msgstr "URL du site"
+
+#: metaboxes/speakers.php:61
+msgid "https://www.yourdomain.com/"
+msgstr "https://www.yourdomain.com/"
+
+#: metaboxes/speakers.php:67
+msgid "xyx@abc.com"
+msgstr "abc@xyz.com"
+
+#: metaboxes/speakers.php:74
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: metaboxes/speakers.php:81
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: metaboxes/speakers.php:89
+msgid "Linked IN URL"
+msgstr "URL d’entrée liée"
+
+#: redux-extensions/extensions-init.php:77
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+"Meilleur si utilisé sur de nouveaux WordPress installer et ce thème "
+"nécessite PHP version 7.0 +"
+
+#: redux-extensions/extensions-init.php:78
+msgid "Images are for demo purpose only."
+msgstr "Seules les images JPEG, PNG et GIF sont autorisées."
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:246
+msgid "Demo Already Imported"
+msgstr "Les traductions importées seront ajoutées dans ce groupe de texte"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:272
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:274
+msgid "Demo Importer"
+msgstr "Importateur de démo"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:279
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+"La meilleure solution est de faire une importation sur une nouvelle "
+"installation de WordPress"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:332
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:430
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:500
+msgid "Home"
+msgstr "Acceuil"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:339
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:437
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:507
+msgid "Blog"
+msgstr "Blog"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:346
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:444
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:514
+msgid "Search"
+msgstr "Rechercher"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:353
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:451
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:521
+msgid "Packages"
+msgstr "Forfaits"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:360
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:528
+msgid "Pages"
+msgstr "Pages"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:368
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:536
+msgid "About Us"
+msgstr "A propos de nous"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:384
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:552
+msgid "Contact Us"
+msgstr "Contacter nous"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:392
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:560
+msgid "Theme Icons"
+msgstr "Icônes de thème"
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:400
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:458
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:568
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "Une erreur s’est produite pendant la lecture du fichier WXR"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Les détails sont affichés ci-dessus. Un nouvel essai va maintenant être "
+"tenté avec un autre analyseur…"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Il semble que ce ne soit pas un fichier WXR, le numéro de version WXR est "
+"absent ou invalide"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:255
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+"Le fichier d’import des options du thème est introuvable. Merci d’essayer de "
+"nouveau."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:330
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+"Le fichier d’importation de widget est introuvable. Merci d’essayer à "
+"nouveau."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:404
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+"La barre latérale n’existe pas dans le thème (son utilisation est inactive)"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:426
+msgid "Site does not support widget"
+msgstr "Le site ne supporte pas les widgets"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:449
+msgid "Widget already exists"
+msgstr "Le widget existe déjà"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:498
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Imported"
+msgstr "Importé"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:501
+msgid "Imported to Inactive"
+msgstr "Importé dans Inactif"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:508
+msgid "No Title"
+msgstr "Pas de titre"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:132
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:141
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:192
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:196
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr "Désolé, il y a eu une erreur."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr "Le fichier n'existe pas, veuillez essayer de nouveau."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr "Terminé."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr "Amusez-vous !"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"N’oubliez pas de mettre à jour les mots de passe et les rôles des "
+"utilisateurs importés."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:197
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Le fichier d’exportation n’a pu être trouvé à <code>%s</code>. Ceci est peut-"
+"être dû à un problème de permissions."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:213
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Ce fichier WXR (version %s) n’est peut-être pas supporté par cette version "
+"de l’outil d’importation. Merci de procéder à une mise à jour."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:238
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"L’importation de l’auteur %s a échoué. Ses articles seront attribués à "
+"l’utilisateur actuel."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr "Affecter des auteurs"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Pour faciliter l’édition et la sauvegarde du contenu importé, vous pouvez "
+"réaffecter l’auteur de l’élément importé à un autre utilisateur de ce site. "
+"Par exemple, vous pouvez importer toutes les entrées comme des entrées "
+"<code>admin</code>."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Si un nouvel utilisateur est créé par WordPress, un nouveau mot de passe "
+"sera généré aléatoirement et le rôle du nouvel utilisateur&#8217;s sera "
+"défini comme %s. Un changement manuel des détails du nouvel "
+"utilisateur&#8217;s sera nécessaire."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr "Importer les pièces jointes"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr "Télécharger et importer les pièces jointes"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr "Soumettre"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr "Importer l'auteur :"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr "ou créer un nouvel utilisateur avec le login :"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr "en tant que nouvel utilisateur :"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr "attribuer les articles à un utilisateur existant :"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr "ou assigner les articles à un utilisateur existant :"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr "- Sélectionner -"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:372
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Impossible de créer un nouvel utilisateur pour %s. Les publications seront "
+"affectées à l'utilisateur actuel."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Impossible d’importer la catégorie %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Impossible d’importer l’étiquette de l’article %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:516
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Échec de l’importation de %s %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Echec de l’importation &#8220;%s&#8221;: Type d’article invalide %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; existe déjà."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Impossible d'importer %s &#8220;%s&#8221;"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:870
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Élément de menu ignoré car son identifiant de menu est manquant"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:877
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Élément de menu ignoré car son identifiant de menu est invalide : %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:940
+msgid "Fetching attachments is not enabled"
+msgstr "La récupération des pièces jointes n'est pas activée"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:953
+msgid "Invalid file type"
+msgstr "Type de fichier invalide"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1003
+msgid "Remote server did not respond"
+msgstr "Le serveur distant n’a pas répondu"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1011
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Le serveur distant à renvoyé une erreur %1$d %2$s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1018
+msgid "Remote file is incorrect size"
+msgstr "La taille du fichier distant est incorrecte"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1023
+msgid "Zero size file downloaded"
+msgstr "Fichier vide téléchargé"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1029
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Le fichier distant est trop lourd, la limite est de %s"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1129
+msgid "Import WordPress"
+msgstr "Import WordPress"
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1136
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Une nouvelle version de l’importateur est disponible. Merci de mettre à jour "
+"vers la version %s pour assurer la compatibilité avec les nouveaux fichiers "
+"d’exportation."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1151
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Salut ! Envoyez votre fichier WordPress eXtended RSS (WXR) et nous "
+"importerons les articles, pages, commentaires, champs personnalisés, "
+"catégories et étiquettes dans ce site."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1152
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Choisissez un fichier WXR (.xml) à télécharger, puis cliquez sur Envoyer le "
+"fichier et l’importer."
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1226
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+"Importer des <strong>articles, pages, commentaires, champs personnalisés, "
+"catégories et mots-clés</strong> à partir d'un fichier d’exportation de "
+"WordPress."
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:94
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+msgid "Import Demo"
+msgstr "Importer la démo"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:98
+msgid "Demo Imported"
+msgstr "Démo importée"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:115
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Please Wait..."
+msgstr "Veuillez patienter..."
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:119
+msgid "Re-Import"
+msgstr "Importer à nouveau"
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:128
+msgid "No Demo Data Provided"
+msgstr "La valeur fournie pour %field n'est pas une URL valide"
+
+#. Plugin Name of the plugin/theme
+msgid "DWT Listing Framework"
+msgstr "Bibliothèque DWT Listing "
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr "https://themeforest.net/user/scriptsbundle/"
+
+#. Description of the plugin/theme
+msgid "This plugin is essential for the proper theme funcationality."
+msgstr "Ce plugin est essentiel pour le bon fonctionnement du thème."
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr "Scripts Bundle"

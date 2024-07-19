@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">events</custom-type>
+        <custom-type translate="1">listing</custom-type>
+        <custom-type translate="1">downtown_map_address</custom-type>
+        <custom-type translate="1">l_claims</custom-type>
+        <custom-type translate="1">l_form_fields</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">l_event_cat</taxonomy>
+        <taxonomy translate="1">l_event_tags</taxonomy>
+        <taxonomy translate="1">l_category</taxonomy>
+        <taxonomy translate="1">l_tags</taxonomy>
+        <taxonomy translate="1">l_price_type</taxonomy>
+        <taxonomy translate="1">l_currency</taxonomy>
+        <taxonomy translate="1">l_location</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <!--  country/map -->
+        <custom-field action="copy-once">country_county</custom-field>
+        <!-- claim -->
+        <custom-field action="copy-once">claimed_by</custom-field>
+        <custom-field action="copy-once">d_listing_claimer_msg</custom-field>
+        <custom-field action="copy-once">d_listing_claim_status</custom-field>
+        <custom-field action="copy-once">d_listing_claimer_contact</custom-field>
+        <!-- events -->
+        <custom-field action="copy-once">dwt_listing_event_contact</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_email</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_start_date</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_end_date</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_venue</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_lat</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_long</custom-field>
+        <custom-field action="copy-once">dwt_event_fb</custom-field>
+        <custom-field action="copy-once">dwt_event_tw</custom-field>
+        <custom-field action="copy-once">dwt_event_google</custom-field>
+        <custom-field action="copy-once">dwt_event_in</custom-field>
+        <custom-field action="copy-once">dwt_event_youtube</custom-field>
+        <custom-field action="copy-once">dwt_event_insta</custom-field>
+        <custom-field action="copy-once">downotown_event_arrangement_</custom-field>
+        <!-- listing -->
+        <custom-field action="copy-once">dwt_listing_listing_contact</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_weburl</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_priceType</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_currencyType</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_pricefrom</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_priceto</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_video</custom-field>
+        <custom-field action="copy-once">dwt_listing_related_email</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_street</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_lat</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_long</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_fb</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_tw</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_google</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_in</custom-field>
+        <custom-field action="copy-once">dwt_listing_youtube</custom-field>
+        <custom-field action="copy-once">dwt_listing_insta</custom-field>
+        <custom-field action="copy-once">dwt_listing_coupon_title</custom-field>
+        <custom-field action="copy-once">dwt_listing_coupon_code</custom-field>
+        <custom-field action="copy-once">dwt_listing_coupon_refer</custom-field>
+        <custom-field action="copy-once">dwt_listing_coupon_desc</custom-field>
+        <custom-field action="copy-once">dwt-listing-timekit-booking</custom-field>
+        <custom-field action="copy-once">dwt_listing_brand_name</custom-field>
+        <custom-field action="copy-once">dwt_listing_coupon_expiry</custom-field>
+        <custom-field action="copy-once">dwt_listing_business_hours</custom-field>
+        <custom-field action="copy-once">dwt_listing_user_timezone</custom-field>
+        <custom-field action="copy-once">dwt_listing_photo_arrangement_</custom-field>
+        <custom-field action="copy-once">dwt_listing_brand_img</custom-field>
+        <custom-field action="copy-once">dwt_listing_feature_ad_expiry_days</custom-field>
+        <custom-field action="copy-once">dwt_listing_featured_for</custom-field>
+        <!-- some status fields -->
+        <custom-field action="copy-once">dwt-listing-timekit-booking-status</custom-field>
+        <custom-field action="copy-once">dwt_listing_ad_status</custom-field>
+        <custom-field action="copy-once">dwt_listing_event_status</custom-field>
+        <custom-field action="copy-once">dwt_listing_listing_status</custom-field>
+    </custom-fields>
+    <!-- theme options -->
+    <admin-texts>
+        <key name="dwt_listing_options">
+            <!-- header -->
+            <key name="dwt_listing_slogan"/>
+            <key name="dwt_listing_disable_header_text"/>
+            <key name="dwt_listing_header-text"/>
+            <key name="dwt_listing_spinner-text"/>
+            <key name="dwt_listing_logo"/> 
+            <key name="dwt_listing_logo-transparent"/>
+            <!-- admin -->
+            <key name="dwt_listing_notification_packages"/>
+            <!--listing-->
+            <key name="dwt_listing_coupon_admin_note_desc"/>
+            <key name="dwt_listing_bad_words_filter" />
+            <key name="dwt_listing_bad_words_replace"/>
+            <key name="report_options" />
+            <key name="dwt_listing_list_title"/>
+            <key name="dwt_listing_list_tool"/>
+            <key name="dwt_listing_list_place"/>
+            <key name="dwt_listing_list_tagline"/>
+            <key name="dwt_listing_list_tagline_tool"/>
+            <key name="dwt_listing_list_tagline_place"/>
+            <key name="dwt_listing_list_category"/>
+            <key name="dwt_listing_list_amen"/>
+            <key name="dwt_listing_list_custom"/>
+            <key name="dwt_listing_list_contact"/>
+            <key name="dwt_listing_list_contact_tool"/>
+            <key name="dwt_listing_list_web"/>
+            <key name="dwt_listing_list_web_tool" />
+            <key name="dwt_listing_list_pricetype"/>
+            <key name="dwt_listing_list_currenct"/>
+            <key name="dwt_listing_list_price_from"/>
+            <key name="dwt_listing_list_price_to"/>
+            <key name="dwt_listing_b_h_section"/>
+            <key name="dwt_listing_b_h_time"/>
+            <key name="dwt_listing_list_video"/>
+            <key name="dwt_listing_list_video_tool"/>
+            <key name="dwt_listing_list_video_place"/>
+            <key name="dwt_listing_list_tags"/>
+            <key name="dwt_listing_list_tags_place"/>
+            <key name="dwt_listing_coupon_title"/>
+            <key name="dwt_listing_coupon_code"/>
+            <key name="dwt_listing_coupon_referral"/>
+            <key name="dwt_listing_coupon_expiry_date"/>
+            <key name="dwt_listing_coupon_desc"/>
+            <key name="dwt_listing_list_google_loc"/>
+            <key name="dwt_listing_list_google_loc_tool"/>
+            <key name="dwt_listing_list_google_loc_place"/>
+            <key name="dwt_listing_list_lati"/>
+            <key name="dwt_listing_list_lati_tool"/>
+            <key name="dwt_listing_list_longi"/>
+            <key name="dwt_listing_list_longi_tool"/>
+            <key name="dwt_listing_b_title"/>
+            <key name="dwt_listing_b_placetitle"/>
+            <key name="dwt_listing_brand_name_logo"/>
+            <key name="dwt_listing_contact_email"/>
+            <key name="dwt_listing_contact_email_tooltip"/>
+            <key name="dwt_listing_list_desc"/>
+            <key name="dwt_listing_list_gallery"/>
+            <key name="dwt_listing_list_gallery_desc"/>
+            <key name="dwt_listing_list_socail_media"/>
+            <key name="dwt_listing_list_form_btn"/>
+            <key name="sb_location_titles"/>
+            <key name="dwt_listing_list_cover"/>
+            <key name="dwt_listing_list_cover_reco"/>
+            <key name="feature_ads_title"/>
+            <key name="dwt_listing_view-layout-manager-minimal">
+                <key name="ad_slot_1"/>
+                <key name="desc"/>
+                <key name="listing_features"/>
+                <key name="location"/>
+                <key name="form_fields"/>
+                <key name="video"/>
+                <key name="reviews"/>
+            </key>
+            <key name="dwt_listing_view-layout-manager">
+                <key name="slider"/>
+                <key name="ad_slot_1"/>
+                <key name="desc"/>
+                <key name="menu"/>
+                <key name="listing_features"/>
+                <key name="location"/>
+                <key name="form_fields"/>
+                <key name="video"/>
+                <key name="ad_slot_2"/>
+                <key name="reviews"/>
+            </key>
+            <key name="dwt_listing_elegent_manager">
+                <key name="ad_slot_1"/>
+                <key name="desc"/>
+                <key name="menu"/>
+                <key name="listing_features"/>
+                <key name="location"/>
+                <key name="form_fields"/>
+                <key name="video"/>
+                <key name="ad_slot_2"/>
+                <key name="reviews"/>
+            </key>
+            <key name="dwt_listing_sidebar-layout-manager">
+                <key name="card"/>
+                <key name="coupon"/>
+                <key name="events"/>
+                <key name="hours"/>
+                <key name="claim"/>
+                <key name="pricing"/>
+                <key name="tags"/>
+                <key name="booking_timekit"/>
+                <key name="nearby_listing"/>
+            </key>
+            <key name="dwt_listing_timezone_txt"/>
+            <key name="dl_desc"/>
+            <key name="dl_menu"/>
+            <key name="dl_advert"/>
+            <key name="dl_amenties"/>
+            <key name="dl_custom"/>
+            <key name="dl_location"/>
+            <key name="dl_video"/>
+            <key name="dl_reviews"/>
+            <key name="dwt_listing_form-layout-manager">
+                <key name="title_cat"/>
+                <key name="price_type"/>
+                <key name="buiness_hours"/>
+                <key name="social_links"/>
+                <key name="desc_sec"/>
+                <key name="coupon"/>
+                <key name="location"/>
+            </key>
+            <!-- package -->
+            <key name="d_p_exp"/>
+            <key name="d_l_exp"/>
+            <key name="d_reg_listing"/>
+            <key name="d_feat_listing"/>
+            <key name="d_feat_for"/>
+            <key name="d_vid_listing"/>
+            <key name="d_web_link"/>
+            <key name="d_no_images"/>
+            <key name="d_p_range"/>
+            <key name="d_b_hours"/>
+            <key name="d_llow_tag"/>
+            <key name="d_bump_listing"/>
+            <key name="d_coupon_code"/>
+            <key name="d_create_event"/>
+            <key name="d_pkg_daytxt"/>
+            <key name="d_pkg_unlimited"/>
+            <key name="d_never_exp"/>
+            <key name="d_pkg_yes"/>
+            <key name="d_pkg_no"/>
+            <!-- blog -->
+            <key name="dwt_listing_blog-post-title"/>
+            <key name="dwt_listing_blog-layout">
+                <key name="content"/>
+                <key name="sidebar"/>
+            </key>
+            <key name="dwt_listing_blog-singlelayout">
+                <key name="singlepost"/>
+                <key name="singlesidebar"/>
+            </key>
+            <!-- Reviews -->
+            <key name="dwt_listing_review_limit_btn_text"/>
+            <key name="dwt_listing_review_taglines_titles"/>
+            <!-- shop -->
+            <key name="related_products_title"/>
+            <!-- events -->
+            <key name="dwt_related_section"/>
+            <key name="dwt_listing_events-filter-manager">
+                <key name="by_title"/>
+                <key name="by_category"/>
+                <key name="by_location"/>
+            </key>
+            
+            <!--footer-->
+            <key name="dwt_listing_pop_loc"/>
+            <key name="dwt_listing_pop_catz"/>
+            <key name="dwt_listing_footer-posts-text"/>
+            <key name="dwt_listing_footer-address-tile"/>
+            <key name="dwt_listing_footer-address">
+                <key name="address"/>
+                <key name="clock"/>
+            </key>
+            <key name="dwt_listing_footer-copyrights"/>
+            <key name="dwt_listing_layout-sorter">
+                <key name="logo"/>
+                <key name="quciklinks"/>
+            </key>
+            <key name="dwt_listing_layout-sorter-3">
+                <key name="logo"/>
+                <key name="quciklinks"/>
+                <key name="post"/>
+                <key name="info"/>
+            </key>
+            <key name="dwt_listing_layout-sorter-4">
+                <key name="logo"/>
+                <key name="countries"/>
+                <key name="cats"/>
+                <key name="links"/>
+            </key>
+            <key name="dwt_listing_footer-text"/>
+            <key name="dwt_listing_footer-links-text"/>
+            <!--end footer-->  
+        </key>
+    </admin-texts>
+</wpml-config>
